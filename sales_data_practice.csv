@@ -1,0 +1,151 @@
+sale_id,sale_date,region,category,product,units_sold,unit_price,revenue
+1001,2023-01-02,East,Electronics,Keyboard,2,768.01,1536.02
+1002,2023-01-05,North,Furniture,Desk,6,271.74,1630.44
+1003,2023-01-09,East,Furniture,Office Chair,7,460.87,3226.09
+1004,2023-01-14,East,Electronics,Laptop,13,1039.84,13517.92
+1005,2023-01-15,North,Office Supplies,Binder,5,36.16,180.8
+1006,2023-01-15,West,Furniture,Filing Cabinet,15,150.68,2260.2
+1007,2023-01-21,North,Electronics,Tablet,17,342.0,5814.0
+1008,2023-01-21,South,Furniture,Bookshelf,3,206.37,619.11
+1009,2023-01-22,East,Electronics,Laptop,17,1173.11,19942.87
+1010,2023-01-28,North,Furniture,Bookshelf,1,346.43,346.43
+1011,2023-01-29,North,Furniture,Office Chair,12,268.07,3216.84
+1012,2023-02-02,East,Furniture,Filing Cabinet,4,113.96,455.84
+1013,2023-02-04,East,Office Supplies,Paper,6,21.55,129.3
+1014,2023-02-04,South,Furniture,Office Chair,11,422.9,4651.9
+1015,2023-02-10,West,Electronics,Laptop,6,850.18,5101.08
+1016,2023-02-10,West,Office Supplies,Stapler,4,5.75,23.0
+1017,2023-02-11,West,Office Supplies,Binder,7,12.85,89.95
+1018,2023-02-13,West,Electronics,Monitor,1,827.04,827.04
+1019,2023-02-17,South,Electronics,Laptop,10,346.63,3466.3
+1020,2023-02-18,North,Furniture,Filing Cabinet,17,181.58,3086.86
+1021,2023-02-19,North,Furniture,Filing Cabinet,5,450.71,2253.55
+1022,2023-02-20,North,Office Supplies,Paper,3,36.52,109.56
+1023,2023-02-21,West,Office Supplies,Stapler,1,33.89,33.89
+1024,2023-02-22,West,Office Supplies,Paper,4,45.43,181.72
+1025,2023-02-22,West,Furniture,Bookshelf,3,488.94,1466.82
+1026,2023-02-23,South,Furniture,Filing Cabinet,18,283.96,5111.28
+1027,2023-02-24,North,Office Supplies,Markers,4,37.05,148.2
+1028,2023-02-28,West,Electronics,Headphones,8,1026.61,8212.88
+1029,2023-03-03,West,Electronics,Laptop,12,635.14,7621.68
+1030,2023-03-04,South,Furniture,Bookshelf,14,327.75,4588.5
+1031,2023-03-04,East,Furniture,Desk,8,345.08,2760.64
+1032,2023-03-06,South,Furniture,Desk,1,322.3,322.3
+1033,2023-03-13,West,Electronics,Headphones,16,372.89,5966.24
+1034,2023-03-22,West,Office Supplies,Paper,17,49.75,845.75
+1035,2023-03-22,South,Furniture,Desk,6,235.47,1412.82
+1036,2023-03-29,West,Electronics,Headphones,17,685.68,11656.56
+1037,2023-03-30,West,Office Supplies,Binder,1,8.39,8.39
+1038,2023-04-02,West,Electronics,Headphones,1,414.46,414.46
+1039,2023-04-06,South,Furniture,Desk,3,319.43,958.29
+1040,2023-04-09,East,Furniture,Filing Cabinet,2,186.75,373.5
+1041,2023-04-10,South,Furniture,Office Chair,17,436.44,7419.48
+1042,2023-04-11,South,Electronics,Keyboard,16,685.74,10971.84
+1043,2023-04-13,South,Furniture,Bookshelf,3,187.61,562.83
+1044,2023-04-13,South,Electronics,Tablet,7,626.74,4387.18
+1045,2023-04-16,North,Electronics,Tablet,8,857.26,6858.08
+1046,2023-04-17,East,Furniture,Filing Cabinet,15,237.74,3566.1
+1047,2023-05-02,East,Furniture,Filing Cabinet,19,275.55,5235.45
+1048,2023-05-09,South,Office Supplies,Markers,17,6.68,113.56
+1049,2023-05-11,South,Furniture,Bookshelf,11,133.37,1467.07
+1050,2023-05-11,West,Electronics,Headphones,12,1160.04,13920.48
+1051,2023-05-11,South,Office Supplies,Stapler,13,13.75,178.75
+1052,2023-05-15,East,Furniture,Bookshelf,8,384.96,3079.68
+1053,2023-05-15,West,Electronics,Monitor,10,421.4,4214.0
+1054,2023-05-16,West,Electronics,Keyboard,5,261.98,1309.9
+1055,2023-05-19,East,Furniture,Bookshelf,9,369.17,3322.53
+1056,2023-05-23,South,Electronics,Monitor,1,558.71,558.71
+1057,2023-05-30,West,Furniture,Office Chair,8,472.54,3780.32
+1058,2023-06-01,East,Electronics,Headphones,5,753.48,3767.4
+1059,2023-06-06,West,Office Supplies,Binder,16,12.14,194.24
+1060,2023-06-10,North,Furniture,Desk,14,118.56,1659.84
+1061,2023-06-11,South,Office Supplies,Paper,14,49.08,687.12
+1062,2023-06-12,West,Electronics,Tablet,16,977.95,15647.2
+1063,2023-06-16,East,Electronics,Headphones,10,1141.52,11415.2
+1064,2023-06-19,East,Furniture,Filing Cabinet,10,342.86,3428.6
+1065,2023-06-20,North,Furniture,Filing Cabinet,5,367.26,1836.3
+1066,2023-06-21,North,Office Supplies,Pens,12,22.47,269.64
+1067,2023-06-24,North,Electronics,Laptop,19,993.74,18881.06
+1068,2023-06-28,North,Office Supplies,Paper,8,45.74,365.92
+1069,2023-07-07,West,Electronics,Headphones,14,70.96,993.44
+1070,2023-07-07,East,Office Supplies,Pens,17,34.51,586.67
+1071,2023-07-08,South,Electronics,Monitor,2,349.8,699.6
+1072,2023-07-09,South,Office Supplies,Stapler,18,33.3,599.4
+1073,2023-07-09,North,Electronics,Tablet,4,254.06,1016.24
+1074,2023-07-10,North,Electronics,Keyboard,3,524.51,1573.53
+1075,2023-07-11,East,Furniture,Desk,5,180.21,901.05
+1076,2023-07-20,East,Office Supplies,Markers,3,9.64,28.92
+1077,2023-07-21,South,Electronics,Laptop,16,498.06,7968.96
+1078,2023-07-25,East,Electronics,Keyboard,17,111.51,1895.67
+1079,2023-07-26,East,Electronics,Laptop,12,458.14,5497.68
+1080,2023-07-27,West,Furniture,Bookshelf,19,287.07,5454.33
+1081,2023-08-01,East,Electronics,Headphones,12,427.96,5135.52
+1082,2023-08-02,West,Office Supplies,Markers,16,40.53,648.48
+1083,2023-08-03,South,Electronics,Headphones,7,1195.32,8367.24
+1084,2023-08-03,East,Furniture,Desk,11,376.45,4140.95
+1085,2023-08-04,North,Office Supplies,Stapler,10,42.66,426.6
+1086,2023-08-05,South,Electronics,Headphones,7,540.01,3780.07
+1087,2023-08-06,South,Furniture,Desk,2,114.17,228.34
+1088,2023-08-06,West,Electronics,Keyboard,16,1042.61,16681.76
+1089,2023-08-10,North,Furniture,Filing Cabinet,7,494.12,3458.84
+1090,2023-08-15,East,Furniture,Filing Cabinet,19,406.4,7721.6
+1091,2023-08-19,East,Furniture,Bookshelf,10,460.67,4606.7
+1092,2023-08-19,North,Office Supplies,Binder,13,23.23,301.99
+1093,2023-08-19,West,Furniture,Office Chair,8,129.36,1034.88
+1094,2023-08-24,East,Electronics,Laptop,13,323.13,4200.69
+1095,2023-08-25,North,Electronics,Tablet,1,307.14,307.14
+1096,2023-08-25,West,Furniture,Office Chair,13,487.35,6335.55
+1097,2023-08-29,West,Electronics,Headphones,11,1106.98,12176.78
+1098,2023-08-30,West,Office Supplies,Binder,18,12.48,224.64
+1099,2023-09-01,North,Electronics,Laptop,3,1086.33,3258.99
+1100,2023-09-09,West,Electronics,Keyboard,10,1142.97,11429.7
+1101,2023-09-09,West,Furniture,Filing Cabinet,8,151.27,1210.16
+1102,2023-09-10,South,Furniture,Filing Cabinet,18,191.69,3450.42
+1103,2023-09-12,West,Electronics,Laptop,17,371.73,6319.41
+1104,2023-09-14,North,Electronics,Tablet,16,237.01,3792.16
+1105,2023-09-15,North,Furniture,Bookshelf,6,478.92,2873.52
+1106,2023-09-17,South,Electronics,Laptop,10,1122.64,11226.4
+1107,2023-09-18,North,Furniture,Bookshelf,5,91.07,455.35
+1108,2023-09-21,South,Electronics,Laptop,15,222.98,3344.7
+1109,2023-09-22,East,Electronics,Monitor,17,1014.08,17239.36
+1110,2023-09-25,East,Furniture,Desk,1,85.74,85.74
+1111,2023-09-27,North,Office Supplies,Stapler,5,49.99,249.95
+1112,2023-09-28,North,Furniture,Bookshelf,5,384.97,1924.85
+1113,2023-09-28,East,Furniture,Office Chair,17,181.26,3081.42
+1114,2023-09-28,East,Electronics,Laptop,13,747.1,9712.3
+1115,2023-10-01,North,Furniture,Desk,8,339.61,2716.88
+1116,2023-10-04,South,Office Supplies,Pens,2,26.43,52.86
+1117,2023-10-07,South,Office Supplies,Binder,12,41.74,500.88
+1118,2023-10-10,North,Electronics,Keyboard,17,204.12,3470.04
+1119,2023-10-16,North,Office Supplies,Markers,14,36.68,513.52
+1120,2023-10-20,South,Office Supplies,Stapler,6,32.36,194.16
+1121,2023-10-21,East,Furniture,Office Chair,19,459.75,8735.25
+1122,2023-10-23,West,Electronics,Laptop,15,506.02,7590.3
+1123,2023-10-28,East,Office Supplies,Pens,17,47.73,811.41
+1124,2023-10-31,North,Furniture,Filing Cabinet,10,402.95,4029.5
+1125,2023-11-03,South,Electronics,Monitor,2,428.06,856.12
+1126,2023-11-05,West,Office Supplies,Binder,11,8.41,92.51
+1127,2023-11-06,South,Electronics,Keyboard,16,787.01,12592.16
+1128,2023-11-10,West,Electronics,Keyboard,3,642.52,1927.56
+1129,2023-11-12,South,Furniture,Desk,19,97.16,1846.04
+1130,2023-11-16,West,Electronics,Monitor,10,253.56,2535.6
+1131,2023-11-23,North,Electronics,Laptop,9,459.39,4134.51
+1132,2023-11-24,North,Furniture,Office Chair,14,218.64,3060.96
+1133,2023-11-25,South,Office Supplies,Paper,15,33.26,498.9
+1134,2023-11-27,East,Office Supplies,Binder,16,7.75,124.0
+1135,2023-12-04,North,Furniture,Filing Cabinet,8,394.27,3154.16
+1136,2023-12-06,East,Electronics,Tablet,15,476.04,7140.6
+1137,2023-12-10,South,Furniture,Office Chair,14,274.26,3839.64
+1138,2023-12-10,South,Electronics,Monitor,19,870.35,16536.65
+1139,2023-12-11,East,Office Supplies,Binder,13,44.02,572.26
+1140,2023-12-11,East,Furniture,Bookshelf,15,124.05,1860.75
+1141,2023-12-12,West,Office Supplies,Markers,10,30.38,303.8
+1142,2023-12-12,South,Electronics,Monitor,12,318.2,3818.4
+1143,2023-12-15,North,Electronics,Tablet,4,458.37,1833.48
+1144,2023-12-17,South,Electronics,Headphones,15,721.83,10827.45
+1145,2023-12-18,East,Furniture,Office Chair,8,326.34,2610.72
+1146,2023-12-25,North,Office Supplies,Pens,5,21.34,106.7
+1147,2023-12-26,South,Furniture,Filing Cabinet,13,218.75,2843.75
+1148,2023-12-26,North,Electronics,Laptop,6,470.16,2820.96
+1149,2023-12-26,South,Furniture,Bookshelf,9,113.7,1023.3
+1150,2023-12-30,West,Office Supplies,Markers,6,22.9,137.4
